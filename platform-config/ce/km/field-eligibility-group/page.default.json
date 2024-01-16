@@ -1,0 +1,10 @@
+{
+  "$id": "ce_page.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Page-default",
+  "entityType": "ce_page",
+  "fields": [
+    "slug"
+  ],
+  "required": []
+}

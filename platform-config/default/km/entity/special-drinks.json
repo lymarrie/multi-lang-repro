@@ -1,0 +1,86 @@
+{
+  "$id": "special-drinks",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Absolutely! We pride ourselves on a rotating menu of seasonal specialties. Keep an eye on our social media for the latest creations by Calvin, from pumpkin spice lattes in the fall to refreshing iced coffees in the summer.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "c_locations": [
+      "calvins-coffee"
+    ],
+    "name": "Do you offer any specialty or seasonal drinks?",
+    "question": "Do you offer any specialty or seasonal drinks?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "answerV2": {
+          "json": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Absolut! Wir sind stolz auf unser wechselndes Angebot an saisonalen Spezialitäten. Halten Sie Ausschau auf unseren Social-Media-Kanälen für die neuesten Kreationen von Calvin, von Kürbisgewürz-Lattes im Herbst bis hin zu erfrischenden Eiskaffees im Sommer.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          }
+        },
+        "name": "Bieten Sie besondere oder saisonale Getränke an?",
+        "question": "Bieten Sie besondere oder saisonale Getränke an?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "$id": "dietary-options",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Yes, we do! Calvin\u0027s Coffee offers a variety of vegan and gluten-free pastries and snacks, as well as dairy-free milk alternatives for our coffee drinks. Everyone is welcome at our table!",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "c_locations": [
+      "calvins-coffee"
+    ],
+    "name": "Do you have any vegan or gluten-free options?",
+    "question": "Do you have any vegan or gluten-free options?"
+  },
+  "entityType": "faq",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "answerV2": {
+          "json": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Ja, das haben wir! Calvins Kaffee bietet eine Vielzahl an veganen und glutenfreien Gebäcken und Snacks, sowie Milchalternativen für unsere Kaffeegetränke. Bei uns ist jeder willkommen!",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          }
+        },
+        "name": "Haben Sie vegane oder glutenfreie Optionen?",
+        "question": "Haben Sie vegane oder glutenfreie Optionen?"
+      }
+    }
+  ]
+}

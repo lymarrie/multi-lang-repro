@@ -1,0 +1,118 @@
+{
+  "$id": "frappe",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_productLocations": [
+      "calvins-coffee"
+    ],
+    "name": "Frappe",
+    "primaryPhoto": {
+      "image": {
+        "height": 1380,
+        "sourceUrl": "https://a.mktgcdn.com/p-sandbox/KeIHTLIeneQhB3GBxAPG1Fhg_xgbkY4xYe9m50geAes/2070x1380.jpg?timestamp\u003d1704746227924",
+        "thumbnails": [
+          {
+            "height": 1380,
+            "url": "https://a.mktgcdn.com/p-sandbox/KeIHTLIeneQhB3GBxAPG1Fhg_xgbkY4xYe9m50geAes/2070x1380.jpg",
+            "width": 2070
+          },
+          {
+            "height": 1267,
+            "url": "https://a.mktgcdn.com/p-sandbox/KeIHTLIeneQhB3GBxAPG1Fhg_xgbkY4xYe9m50geAes/1900x1267.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/KeIHTLIeneQhB3GBxAPG1Fhg_xgbkY4xYe9m50geAes/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/KeIHTLIeneQhB3GBxAPG1Fhg_xgbkY4xYe9m50geAes/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/KeIHTLIeneQhB3GBxAPG1Fhg_xgbkY4xYe9m50geAes/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/KeIHTLIeneQhB3GBxAPG1Fhg_xgbkY4xYe9m50geAes/2070x1380.jpg",
+        "width": 2070
+      }
+    },
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Dive into the refreshing delight of our Frappe. A cool, frothy fusion of ice-blended coffee, sweet syrups, and whipped cream, it\u0027s the ultimate treat to beat the heat and uplift your spirits.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "folder": "yext/root",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "richTextDescriptionV2": {
+          "json": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Tauchen Sie ein in das erfrischende Vergnügen unseres Frappes. Eine kühle, schaumige Fusion aus eisgekühltem Kaffee, süßen Sirupen und Schlagsahne, er ist der ultimative Genuss, um der Hitze zu trotzen und Ihre Stimmung zu heben.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

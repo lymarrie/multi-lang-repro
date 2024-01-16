@@ -1,0 +1,321 @@
+{
+  "$id": "calvins-coffee",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "61 9th Ave",
+      "postalCode": "10011",
+      "region": "NY"
+    },
+    "addressHidden": false,
+    "c_backgroundColor": "WHITE",
+    "c_faqs": [
+      "private-events",
+      "dietary-options",
+      "special-drinks"
+    ],
+    "c_featuredProducts": [
+      "cappuccino",
+      "drip-coffee",
+      "frappe"
+    ],
+    "c_tagline": "Where Every Sip Feels Like Home",
+    "description": "Step into Calvin\u0027s Coffee, a charming haven where coffee isn\u0027t just a beverage, but a journey of flavors. Founded by coffee enthusiast Calvin, this cozy nook prides itself on serving meticulously crafted cups from the finest global beans. With its rustic ambiance and warm hospitality, Calvin\u0027s offers more than just exceptional coffee; it\u0027s a community hub for caffeine aficionados and casual chatters alike, complemented by an array of delicious pastries and treats. At Calvin\u0027s, every visit is like coming home to a family of coffee lovers.",
+    "emails": [
+      "test@test.com"
+    ],
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "holidayHours": [
+        {
+          "date": "2024-12-25",
+          "isClosed": true
+        }
+      ],
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "06:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "instagram",
+    "logo": {
+      "image": {
+        "height": 200,
+        "sourceUrl": "https://static.vecteezy.com/system/resources/thumbnails/002/412/377/small/coffee-cup-logo-coffee-shop-icon-design-free-vector.jpg",
+        "thumbnails": [
+          {
+            "height": 200,
+            "url": "https://a.mktgcdn.com/p-sandbox/ZOnTQIYD_ltruJOfFAtlDA9g7EsNIPOo34g9D0grOS8/200x200.jpg",
+            "width": 200
+          },
+          {
+            "height": 150,
+            "url": "https://a.mktgcdn.com/p-sandbox/ZOnTQIYD_ltruJOfFAtlDA9g7EsNIPOo34g9D0grOS8/150x150.jpg",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "https://a.mktgcdn.com/p-sandbox/ZOnTQIYD_ltruJOfFAtlDA9g7EsNIPOo34g9D0grOS8/94x94.jpg",
+            "width": 94
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/ZOnTQIYD_ltruJOfFAtlDA9g7EsNIPOo34g9D0grOS8/200x200.jpg",
+        "width": 200
+      }
+    },
+    "mainPhone": "+12129943900",
+    "name": "Calvin\u0027s Coffee",
+    "paymentOptions": [
+      "AMERICANEXPRESS",
+      "DISCOVER",
+      "MASTERCARD",
+      "VISA"
+    ],
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1380,
+          "sourceUrl": "https://images.unsplash.com/photo-1542181961-9590d0c79dab?q\u003d80\u0026w\u003d2070\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjtLUKyG0W16SAb53J764Y0ZZBYn0LR4vgJB0wPh27Q/2070x1380.jpg",
+              "width": 2070
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjtLUKyG0W16SAb53J764Y0ZZBYn0LR4vgJB0wPh27Q/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjtLUKyG0W16SAb53J764Y0ZZBYn0LR4vgJB0wPh27Q/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjtLUKyG0W16SAb53J764Y0ZZBYn0LR4vgJB0wPh27Q/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/zjtLUKyG0W16SAb53J764Y0ZZBYn0LR4vgJB0wPh27Q/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/zjtLUKyG0W16SAb53J764Y0ZZBYn0LR4vgJB0wPh27Q/2070x1380.jpg",
+          "width": 2070
+        }
+      },
+      {
+        "image": {
+          "height": 1380,
+          "sourceUrl": "https://images.unsplash.com/photo-1467189386127-c4e5e31ee213?q\u003d80\u0026w\u003d2070\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "https://a.mktgcdn.com/p-sandbox/12rLC7FqNM9heKQOEHTcRJI5M3Y5AKKAQNRH3LaWnpY/2070x1380.jpg",
+              "width": 2070
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/12rLC7FqNM9heKQOEHTcRJI5M3Y5AKKAQNRH3LaWnpY/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/12rLC7FqNM9heKQOEHTcRJI5M3Y5AKKAQNRH3LaWnpY/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/12rLC7FqNM9heKQOEHTcRJI5M3Y5AKKAQNRH3LaWnpY/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/12rLC7FqNM9heKQOEHTcRJI5M3Y5AKKAQNRH3LaWnpY/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/12rLC7FqNM9heKQOEHTcRJI5M3Y5AKKAQNRH3LaWnpY/2070x1380.jpg",
+          "width": 2070
+        }
+      },
+      {
+        "image": {
+          "height": 1380,
+          "sourceUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?q\u003d80\u0026w\u003d2070\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "https://a.mktgcdn.com/p-sandbox/DU7jY5DFk61r6H9Z_GAa5TyAn6q6Fr59p6o_PcWp9N8/2070x1380.jpg",
+              "width": 2070
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/DU7jY5DFk61r6H9Z_GAa5TyAn6q6Fr59p6o_PcWp9N8/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/DU7jY5DFk61r6H9Z_GAa5TyAn6q6Fr59p6o_PcWp9N8/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/DU7jY5DFk61r6H9Z_GAa5TyAn6q6Fr59p6o_PcWp9N8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/DU7jY5DFk61r6H9Z_GAa5TyAn6q6Fr59p6o_PcWp9N8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/DU7jY5DFk61r6H9Z_GAa5TyAn6q6Fr59p6o_PcWp9N8/2070x1380.jpg",
+          "width": 2070
+        }
+      },
+      {
+        "image": {
+          "height": 1367,
+          "sourceUrl": "https://images.unsplash.com/photo-1497515114629-f71d768fd07c?q\u003d80\u0026w\u003d2084\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "thumbnails": [
+            {
+              "height": 1367,
+              "url": "https://a.mktgcdn.com/p-sandbox/iY4WBD2cOjDTT-XDlmfW-WNAy_Od-Uf1ux-nzc3SRM0/2084x1367.jpg",
+              "width": 2084
+            },
+            {
+              "height": 1246,
+              "url": "https://a.mktgcdn.com/p-sandbox/iY4WBD2cOjDTT-XDlmfW-WNAy_Od-Uf1ux-nzc3SRM0/1900x1246.jpg",
+              "width": 1900
+            },
+            {
+              "height": 406,
+              "url": "https://a.mktgcdn.com/p-sandbox/iY4WBD2cOjDTT-XDlmfW-WNAy_Od-Uf1ux-nzc3SRM0/619x406.jpg",
+              "width": 619
+            },
+            {
+              "height": 394,
+              "url": "https://a.mktgcdn.com/p-sandbox/iY4WBD2cOjDTT-XDlmfW-WNAy_Od-Uf1ux-nzc3SRM0/600x394.jpg",
+              "width": 600
+            },
+            {
+              "height": 129,
+              "url": "https://a.mktgcdn.com/p-sandbox/iY4WBD2cOjDTT-XDlmfW-WNAy_Od-Uf1ux-nzc3SRM0/196x129.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/iY4WBD2cOjDTT-XDlmfW-WNAy_Od-Uf1ux-nzc3SRM0/2084x1367.jpg",
+          "width": 2084
+        }
+      },
+      {
+        "image": {
+          "height": 1380,
+          "sourceUrl": "https://images.unsplash.com/photo-1432107294469-414527cb5c65?q\u003d80\u0026w\u003d2070\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "thumbnails": [
+            {
+              "height": 1380,
+              "url": "https://a.mktgcdn.com/p-sandbox/wkBwkNCmT81q70OiFmXaHNg1e-fEZ3kwsjKZZ2UcqIw/2070x1380.jpg",
+              "width": 2070
+            },
+            {
+              "height": 1267,
+              "url": "https://a.mktgcdn.com/p-sandbox/wkBwkNCmT81q70OiFmXaHNg1e-fEZ3kwsjKZZ2UcqIw/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "https://a.mktgcdn.com/p-sandbox/wkBwkNCmT81q70OiFmXaHNg1e-fEZ3kwsjKZZ2UcqIw/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "https://a.mktgcdn.com/p-sandbox/wkBwkNCmT81q70OiFmXaHNg1e-fEZ3kwsjKZZ2UcqIw/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "https://a.mktgcdn.com/p-sandbox/wkBwkNCmT81q70OiFmXaHNg1e-fEZ3kwsjKZZ2UcqIw/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p-sandbox/wkBwkNCmT81q70OiFmXaHNg1e-fEZ3kwsjKZZ2UcqIw/2070x1380.jpg",
+          "width": 2070
+        }
+      }
+    ],
+    "slug": "index.html",
+    "timezone": "America/New_York",
+    "twitterHandle": "twitter"
+  },
+  "entityType": "location",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "c_tagline": "Wo jeder Schluck wie Zuhause schmeckt",
+        "description": "Treten Sie ein in Calvins Coffee, ein charmantes Refugium, wo Kaffee nicht nur ein Getränk, sondern eine Geschmacksreise ist. Gegründet vom Kaffeeliebhaber Calvin, bietet dieser gemütliche Ort sorgfältig zubereitete Tassen aus den feinsten globalen Bohnen. Mit seinem rustikalen Ambiente und herzlicher Gastfreundschaft bietet Calvins mehr als nur außergewöhnlichen Kaffee; es ist ein Gemeinschaftstreffpunkt für Kaffeekenner und Gelegenheitsplauderer gleichermaßen, ergänzt durch eine Auswahl köstlicher Gebäcke und Leckereien. Bei Calvins ist jeder Besuch wie ein Nachhausekommen in eine Familie von Kaffeeliebhabern.",
+        "slug": "[[localeCode]]/index.html"
+      }
+    }
+  ]
+}

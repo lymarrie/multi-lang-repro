@@ -1,0 +1,19 @@
+{
+  "$id": "c_featuredProducts",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Featured Products",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "entityReference",
+      "type": {
+        "entityReferenceType": {
+          "relatedFieldId": "c_productLocations",
+          "type": "TWO_WAY"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

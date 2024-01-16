@@ -1,0 +1,86 @@
+{
+  "$id": "private-events",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "answerV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Yes, you can! Calvin\u0027s Coffee is available for private bookings. Whether it\u0027s a birthday, a small wedding reception, or a corporate meeting, we\u0027d love to host your special event. Contact us for more details and availability.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    },
+    "c_locations": [
+      "calvins-coffee"
+    ],
+    "name": "Can I book the coffee shop for private events?",
+    "question": "Can I book the coffee shop for private events?"
+  },
+  "entityType": "faq",
+  "folder": "yext/root",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "answerV2": {
+          "json": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Ja, das können Sie! Calvins Kaffee steht für private Buchungen zur Verfügung. Ob Geburtstag, kleine Hochzeitsfeier oder Geschäftstreffen, wir würden uns freuen, Ihr besonderes Ereignis auszurichten. Kontaktieren Sie uns für weitere Details und Verfügbarkeit.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          }
+        },
+        "name": "Kann ich das Café für private Veranstaltungen buchen?",
+        "question": "Kann ich das Café für private Veranstaltungen buchen?"
+      }
+    }
+  ]
+}

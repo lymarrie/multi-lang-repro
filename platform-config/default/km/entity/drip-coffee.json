@@ -1,0 +1,118 @@
+{
+  "$id": "drip-coffee",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_productLocations": [
+      "calvins-coffee"
+    ],
+    "name": "Drip Coffee",
+    "primaryPhoto": {
+      "image": {
+        "height": 1380,
+        "sourceUrl": "https://a.mktgcdn.com/p-sandbox/8EfEuklaqJzUNMFEZ4vXxgFs0h1jVXXDdRbBJ7m3Djo/2070x1380.jpg?timestamp\u003d1704746199263",
+        "thumbnails": [
+          {
+            "height": 1380,
+            "url": "https://a.mktgcdn.com/p-sandbox/8EfEuklaqJzUNMFEZ4vXxgFs0h1jVXXDdRbBJ7m3Djo/2070x1380.jpg",
+            "width": 2070
+          },
+          {
+            "height": 1267,
+            "url": "https://a.mktgcdn.com/p-sandbox/8EfEuklaqJzUNMFEZ4vXxgFs0h1jVXXDdRbBJ7m3Djo/1900x1267.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/8EfEuklaqJzUNMFEZ4vXxgFs0h1jVXXDdRbBJ7m3Djo/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/8EfEuklaqJzUNMFEZ4vXxgFs0h1jVXXDdRbBJ7m3Djo/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/8EfEuklaqJzUNMFEZ4vXxgFs0h1jVXXDdRbBJ7m3Djo/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/8EfEuklaqJzUNMFEZ4vXxgFs0h1jVXXDdRbBJ7m3Djo/2070x1380.jpg",
+        "width": 2070
+      }
+    },
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Savor the simplicity and depth of our Drip Coffee. Each cup is a testament to our dedication to quality, featuring a meticulously brewed, full-bodied flavor that awakens your day and soothes your soul.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "folder": "yext/root",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "richTextDescriptionV2": {
+          "json": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Genießen Sie die Einfachheit und Tiefe unseres Filterkaffees. Jede Tasse ist ein Zeugnis unserer Hingabe an Qualität, mit einem sorgfältig gebrühten, vollmundigen Geschmack, der Ihren Tag erweckt und Ihre Seele beruhigt.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}

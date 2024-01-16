@@ -1,0 +1,154 @@
+{
+  "$id": "cappuccino",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_productLocations": [
+      "calvins-coffee"
+    ],
+    "name": "Cappuccino",
+    "primaryPhoto": {
+      "image": {
+        "height": 1380,
+        "sourceUrl": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/2070x1380.jpg",
+        "thumbnails": [
+          {
+            "height": 1380,
+            "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/2070x1380.jpg",
+            "width": 2070
+          },
+          {
+            "height": 1267,
+            "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/1900x1267.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/2070x1380.jpg",
+        "width": 2070
+      }
+    },
+    "richTextDescriptionV2": {
+      "json": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Experience the classic elegance of our Cappuccino, a harmonious blend of rich espresso and velvety steamed milk, crowned with a luxurious layer of smooth foam. It\u0027s a timeless indulgence for the senses.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      }
+    }
+  },
+  "entityType": "product",
+  "labels": [],
+  "alternateProfiles": [
+    {
+      "locale": "de",
+      "content": {
+        "photoGallery": [
+          {
+            "image": {
+              "height": 1380,
+              "sourceUrl": "https://images.unsplash.com/photo-1462917882517-e150004895fa?q\u003d80\u0026w\u003d2070\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.0.3\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+              "thumbnails": [
+                {
+                  "height": 1380,
+                  "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/2070x1380.jpg",
+                  "width": 2070
+                },
+                {
+                  "height": 1267,
+                  "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/1900x1267.jpg",
+                  "width": 1900
+                },
+                {
+                  "height": 413,
+                  "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/619x413.jpg",
+                  "width": 619
+                },
+                {
+                  "height": 400,
+                  "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/600x400.jpg",
+                  "width": 600
+                },
+                {
+                  "height": 131,
+                  "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/196x131.jpg",
+                  "width": 196
+                }
+              ],
+              "url": "https://a.mktgcdn.com/p-sandbox/eWVrPFyzGy85vZa0zc2IZwEVB3uODGCLEO7J19uvLUI/2070x1380.jpg",
+              "width": 2070
+            }
+          }
+        ],
+        "richTextDescriptionV2": {
+          "json": {
+            "root": {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "detail": 0,
+                      "format": 0,
+                      "mode": "normal",
+                      "style": "",
+                      "text": "Erleben Sie die klassische Eleganz unseres Cappuccinos, eine harmonische Mischung aus reichhaltigem Espresso und samtig gedämpfter Milch, gekrönt mit einer luxuriösen Schicht glatten Schaums. Ein zeitloser Genuss für die Sinne.",
+                      "type": "text",
+                      "version": 1
+                    }
+                  ],
+                  "direction": "ltr",
+                  "format": "",
+                  "indent": 0,
+                  "type": "paragraph",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "root",
+              "version": 1
+            }
+          }
+        }
+      }
+    }
+  ]
+}
